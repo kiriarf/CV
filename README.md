@@ -8,10 +8,9 @@ implementing solutions with a desired level of functionality. I joined Makers to
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Student Directory**        | App to manage a   | Ruby, bash        |
-|                              |list of students   |                   |
+| Name                         | Description                      | Tech/tools        |
+| ---------------------------- | ---------------------------------| ----------------- |
+| **Student Directory**        | App to manage a list of students | Ruby, bash        |
 
 
 ## Experience
