@@ -85,11 +85,21 @@ _Bachelor of Arts in Economics and Business_
 - A-Level: Mathematics (A), Economics (Β), Russian (A), Chemistry (B), AS German (A)
 - GCSE: 7A*, 4A
 
-#### Certifications 
+#### Certifications
 
 - IBM Planning Analytics V2.0.0 Analyst
 - Azure Fundamentals
 
+#### Languages
+- English (fluent)
+- Russian (native)
+- Lithuanian (fluent, but need some practice)
+- German (conversational)
+
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+My main hobby is playing What? Where? When? and other similar games. It is a Russian game, where a team of six players needs to answer a question within a minute. The closest analogy would be a pub quiz, but questions are not trivia, and are answered with logic and deduction.
+
+Furthermore, I always seek to try new experiences, such as skydiving, surfing and wakeboarding. During lockdown, I found a passion in cooking and trying to recreate my favourite dishes from scratch. I also enjoy playing video games (CS:GO, LoL, Dota, Overwatch) with my friends
+
+In the past year, we got a puppy and a kitten and my life has been revolving around them ever since :)
