@@ -69,19 +69,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
+**Makers Academy** (September 2020 to December 2020)  
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+**University College London** (September 2016 to June 2019)
+_Bachelor of Arts in Economics and Business_
+- First Class with Honours
+- Research Officer in Tharsos Trading Group
+- Deputy Treasurer in Eurasian Business Society
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
+**Caterham School** (September 2012 to June 2016)
+- A-Level: Mathematics (A), Economics (Β), Russian (A), Chemistry (B), AS German (A)
+- GCSE: 7A*, 4A
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
