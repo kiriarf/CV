@@ -29,9 +29,22 @@ external communication and increase consultants’ awareness of the current affa
 with the guests, yielding project opportunities for the firm.
 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**IlliquidX** (July 2018 to August 2018)  
+_Summer Intern_
 
+* Developed knowledge of the distressed debt industry; used fundamental analysis and financial
+modelling to find recovery opportunities.
+* Prepared presentations with a focus on distressed companies in Russian-speaking markets.
+* Participated in sales calls and conducted primary research by contacting relevant persons in several
+restructuring processes.
+
+**Fishdorf** (June 2018)  
+_Temporary Manager_
+
+* Managed a team of hotel and restaurant staff and trained them to welcome international guests during the 2018
+FIFA World Cup in Kaliningrad, Russia.
+* Worked with guests to solve their problems and helped organize their stay in Kaliningrad, which resulted in
+many outstanding reviews.
 
 ## Skills
 
