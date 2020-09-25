@@ -77,6 +77,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **University College London** (September 2016 to June 2019)
 _Bachelor of Arts in Economics and Business_
+
 - First Class with Honours
 - Research Officer in Tharsos Trading Group
 - Deputy Treasurer in Eurasian Business Society
