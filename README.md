@@ -84,9 +84,11 @@ _Bachelor of Arts in Economics and Business_
 **Caterham School** (September 2012 to June 2016)
 - A-Level: Mathematics (A), Economics (Β), Russian (A), Chemistry (B), AS German (A)
 - GCSE: 7A*, 4A
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Certifications 
+
+- IBM Planning Analytics V2.0.0 Analyst
+- Azure Fundamentals
 
 ## Hobbies
 
