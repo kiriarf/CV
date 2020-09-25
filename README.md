@@ -15,15 +15,23 @@ implementing solutions with a desired level of functionality. I joined Makers to
 
 ## Experience
 
+**Thorogood Associates** (July 2019 to September 2020)  
+_Business Intelligence and Analytics Consultant_
+
+* Gained data engineering and modelling experience by working in SQL and Python with a globally based
+team to build a datamart service from several internal and external data sources.
+* Worked on several team-based and individual projects involving data visualisation and building end-to-end
+reporting solutions, such as Supply Chain reports with an automated data flow from SAP to Power BI.
+* Worked with senior colleagues to identify the gaps in the firm’s certifications and promote capability
+building to grow the Microsoft partnership. Built an internal web-based solution to enhance the firm’s
+external communication and increase consultants’ awareness of the current affairs in the firm.
+* Participated in the firm’s marketing activity by hosting several hands-on events and building relationships
+with the guests, yielding project opportunities for the firm.
+
+
 **Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
