@@ -50,22 +50,25 @@ many outstanding reviews.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Ability to Learn Quickly
 
-#### This Skill
+Due to the lack of a technical background, I have encountered a steep learning curve in the early
+months of my time as a consultant, yet, with each new project and each new tool that I picked up, I
+have seen my expertise and understanding of data solutions grow. Starting with developing
+unsophisticated reports in Power BI and Tableau, I have gained foundational knowledge of relational
+data models and the best practices of data visualisation, which has helped me to move onto complex
+data engineering and cloud architecture projects within several months.
 
-- Experience
-- Achievements
-- Evidence
+Although economics is a vastly different discipline to programming, self-study and research skills that I gained with my degree are highly transferable and will aid
+me in overcoming any learning challenge, which is called for by the nature of work as a software engineer, where one has to develop continuously and stay up-to-date with the industry.
+
+Add stuff about Makers being intensive here.
+
+#### Analytical Skills
+
+#### Client Service
 
 #### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
