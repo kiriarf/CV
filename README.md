@@ -2,17 +2,15 @@
 
 ## About Me
 
-My name is Kiril Drobysevskij and I a recent Makers Academy graduate. Prior to joining Makers, I have been working as an analytics consultant for a year, where I gained extensive experience in data engineering and visualisation, as well as teamwork and project management best practices, such as Agile. In 2019, I have graduated from UCL Economics and Business with First Class Honours.
+My name is Kiril Drobysevskij and I a recent Makers Academy graduate. Prior to joining Makers, I had been working as an analytics consultant for a year, where I gained extensive experience in data engineering and visualisation, as well as teamwork and project management best practices, such as Agile. In 2019, I graduated from UCL Economics and Business with First Class Honours.
 
-As I have progressed through my academic studies and, subsequently, my career, I have come to a
-realisation that my superficial understanding of programming has been a limiting factor to
-implementing solutions with a desired level of functionality. I joined Makers to build a strong foundation of programming knowledge and switch my career path to software development. I plan to use this knowledge in conjunction with the data engineering and visualisation expertise I gained through my career to enhance my understanding of end-to-end software architecture and become an efficient developer.
+As I have progressed through my academic studies and, subsequently, my career, I have identified my superficial understanding of programming to be a barrier for my future growth, therefore, I have joined Makers to build a strong foundation of programming knowledge and switch my career path to software development. I plan to use this knowledge in conjunction with the data engineering and visualisation expertise I gained through my career to enhance my understanding of end-to-end software architecture and to become an efficient developer.
 
 ## Projects
 
-| Name                         | Description                      | Tech/tools        |
-| ---------------------------- | ---------------------------------| ----------------- |
-| **Student Directory**        | App to manage a list of students | Ruby, bash        |
+| Name                         | Description                                                                       | Tech/tools        |
+| ---------------------------- | ----------------------------------------------------------------------------------| ----------------- |
+| **CatchMe**                  | An app that uses location tracking to let you race with your friends in real time | _Backend:_ GraphQL, Apollo Server, NodeJS, Sequelize, PostgreSQL, Jest; _Frontend:_ ReactJS, Apollo Client, Cypress; _CI/CD:_ Travis, _Deployed on:_ Heroku     |
 
 
 ## Experience
