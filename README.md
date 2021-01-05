@@ -10,7 +10,9 @@ As I have progressed through my academic studies and, subsequently, my career, I
 
 | Name                         | Description                                                                       | Tech/tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------| ----------------- |
-| **CatchMe**                  | An app that uses location tracking to let you race with your friends in real time | _Backend:_ GraphQL, Apollo Server, NodeJS, Sequelize, PostgreSQL, Jest; _Frontend:_ ReactJS, Apollo Client, Cypress; _CI/CD:_ Travis, _Deployed on:_ Heroku     |
+| **CatchMe**                  | An app that uses location tracking to let you race with your friends in real time (final project at Makers) | GraphQL (Apollo Server + Client), React, PostgreSQL + Sequelize, Travis CI/CD, Heroku, Jest and Cypress |
+| **BruhBook**                 | A CRUD app with basic social media features, such as adding posts                 | Ruby on Rails, React, PostgreSQL, Travis CI/CD, Heroku |
+| **Bank**                     | A basic banking app done as a practice tech test                                  | NodeJS, Jest, ESLint (airbnb) |
 
 
 ## Experience
