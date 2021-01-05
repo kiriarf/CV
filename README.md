@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Kiril Drobysevskij and I am an aspiring software engineer, currently enrolled at Makers Academy. Prior to joining Makers, I have been working as an analytics consultant for a year, where I gained extensive experience in data engineering and visualisation, as well as teamwork and project management best practices, such as Agile. In 2019, I have graduated from UCL Economics and Business with First Class Honours.
+My name is Kiril Drobysevskij and I a recent Makers Academy graduate. Prior to joining Makers, I have been working as an analytics consultant for a year, where I gained extensive experience in data engineering and visualisation, as well as teamwork and project management best practices, such as Agile. In 2019, I have graduated from UCL Economics and Business with First Class Honours.
 
 As I have progressed through my academic studies and, subsequently, my career, I have come to a
 realisation that my superficial understanding of programming has been a limiting factor to
