@@ -14,6 +14,36 @@ As I have progressed through my academic studies and, subsequently, my career, I
 | **BruhBook**                 | A CRUD app with basic social media features, such as adding posts                 | Ruby on Rails, React, PostgreSQL, Travis CI/CD, Heroku |
 | **Bank**                     | A basic banking app done as a practice tech test                                  | NodeJS, Jest, ESLint (airbnb) |
 
+## Skills
+
+#### I Can Learn Anything Quickly
+
+Due to the lack of a technical background, I have encountered a steep learning curve in the early
+months of my time as a consultant, yet, with each new project and each new tool that I picked up, I
+have seen my expertise and understanding of data solutions grow. Starting with developing
+unsophisticated reports in Power BI and Tableau, I have gained foundational knowledge of relational
+data models and the best practices of data visualisation, which has helped me to move onto complex
+data engineering and cloud architecture projects within several months.
+
+Although economics is a vastly different discipline to programming, self-study and research skills that I gained with my degree are highly transferable and will aid me in overcoming any learning challenge, which is called for by the nature of work as a developer, where one has to develop continuously and stay up-to-date with the industry. Finally, during my experience at Makers I could really stress-test my learning skills as the program was highly intensive. I believe that one of my successes was focussing my efforts on learning and applying the fundamental concepts in programming, such as OOP and TDD. With these skills at my disposal, I got more confident with Ruby and later JavaScript, as well as any other technologies I needed for my projects. 
+
+#### Analytical Skills
+some stuff about working with data
+some stuff about uni and maybe internship
+maybe planning under here
+what where when and other problem solving
+
+#### Client Service
+people skills are important
+i worked in retail and hospitality with success
+
+#### Planning 
+helps to execute better - example being catchme server + web
+
+#### I Can Work in a Team
+TG
+Makers
+
 
 ## Experience
 
@@ -48,28 +78,6 @@ FIFA World Cup in Kaliningrad, Russia.
 * Worked with guests to solve their problems and helped organize their stay in Kaliningrad, which resulted in
 many outstanding reviews.
 
-## Skills
-
-#### Ability to Learn Quickly
-
-Due to the lack of a technical background, I have encountered a steep learning curve in the early
-months of my time as a consultant, yet, with each new project and each new tool that I picked up, I
-have seen my expertise and understanding of data solutions grow. Starting with developing
-unsophisticated reports in Power BI and Tableau, I have gained foundational knowledge of relational
-data models and the best practices of data visualisation, which has helped me to move onto complex
-data engineering and cloud architecture projects within several months.
-
-Although economics is a vastly different discipline to programming, self-study and research skills that I gained with my degree are highly transferable and will aid
-me in overcoming any learning challenge, which is called for by the nature of work as a software engineer, where one has to develop continuously and stay up-to-date with the industry.
-
-Add stuff about Makers being intensive here.
-
-#### Analytical Skills
-
-#### Client Service
-
-#### Another Skill
-
 ## Education
 
 **Makers Academy** (September 2020 to December 2020)  
@@ -101,7 +109,7 @@ _Bachelor of Arts in Economics and Business_
 
 ## Hobbies
 
-My main hobby is playing What? Where? When? and other similar games. It is a Russian game, where a team of six players needs to answer a question within a minute. The closest analogy would be a pub quiz, but questions are not trivia, and are answered with logic and deduction.
+My main hobby is playing What? Where? When? It is a Russian game, where a team of six players answer a question within a minute. The closest analogy would be a pub quiz, but questions are answered with logic and deduction, rather than being trivia-based.
 
 Furthermore, I always seek to try new experiences, such as skydiving, surfing and wakeboarding. During lockdown, I found a passion in cooking and trying to recreate my favourite dishes from scratch. I also enjoy playing video games (CS:GO, LoL, Dota, Overwatch) with my friends
 
