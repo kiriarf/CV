@@ -4,7 +4,7 @@
 
 My name is Kiril Drobysevskij and I a recent Makers Academy graduate. Prior to joining Makers, I had been working as an analytics consultant for a year, where I gained extensive experience in data engineering and visualisation, as well as teamwork and project management best practices, such as Agile. In 2019, I graduated from UCL Economics and Business with First Class Honours.
 
-As I have progressed through my academic studies and, subsequently, my career, I have identified my superficial understanding of programming to be a barrier for my future growth, therefore, I have joined Makers to build a strong foundation of programming knowledge and switch my career path to software development. I plan to use this knowledge in conjunction with the data engineering and visualisation expertise I gained through my career to enhance my understanding of end-to-end software architecture and to become an efficient developer.
+As I have progressed through my academic studies and, subsequently, my career, I have identified my superficial understanding of programming to be a barrier for my future growth, therefore, I have joined Makers to build a strong foundation of programming knowledge and switch my career path to software development. I plan to use this knowledge in conjunction with the data engineering and visualisation expertise I gained through my career to enhance my understanding of end-to-end software architecture and become an efficient developer.
 
 ## Projects
 
@@ -18,32 +18,27 @@ As I have progressed through my academic studies and, subsequently, my career, I
 
 #### I Can Learn Anything Quickly
 
-Due to the lack of a technical background, I have encountered a steep learning curve in the early
-months of my time as a consultant, yet, with each new project and each new tool that I picked up, I
-have seen my expertise and understanding of data solutions grow. Starting with developing
-unsophisticated reports in Power BI and Tableau, I have gained foundational knowledge of relational
-data models and the best practices of data visualisation, which has helped me to move onto complex
-data engineering and cloud architecture projects within several months.
+Having graduated from a BA degree in Economics and lacking a technical background, I have encountered a steep learning curve in the early months of my time as a business analytics consultant. However, with each new project and tool that I picked up, I have seen my expertise and understanding of data solutions grow. Starting with developing unsophisticated reports in Power BI and Tableau, I have gained foundational knowledge of relational data models and best practices of data visualisation, which has helped me to move onto complex data engineering and cloud architecture projects within several months. 
 
 Although economics is a vastly different discipline to programming, self-study and research skills that I gained with my degree are highly transferable and will aid me in overcoming any learning challenge, which is called for by the nature of work as a developer, where one has to develop continuously and stay up-to-date with the industry. Finally, during my experience at Makers I could really stress-test my learning skills as the program was highly intensive. I believe that one of my successes was focussing my efforts on learning and applying the fundamental concepts in programming, such as OOP and TDD. With these skills at my disposal, I got more confident with Ruby and later JavaScript, as well as any other technologies I needed for my projects. 
 
-#### Analytical Skills
-some stuff about working with data
-some stuff about uni and maybe internship
-maybe planning under here
-what where when and other problem solving
-
-#### Client Service
-people skills are important
-i worked in retail and hospitality with success
-
-#### Planning 
-helps to execute better - example being catchme server + web
-
 #### I Can Work in a Team
-TG
-Makers
 
+During my time at university, I have worked part-time with Syft, which involved working in a new location with a new team almost every shift. This has taught me how to adapt to working with different people and team dynamics, which was particularly useful during the pair programming sessions at Makers, where we would have a new partner every day. Everybody had a different working style and being able to adjust myself enabled a symbiotic relationship, where I could learn from other students' approaches, as well as share the methods that worked for me.
+
+The work as a consultant was almost always team-based, therefore I have gained experience of brainstorming ideas and executing them with other people. An important takeaway for me was learning how to listen to others and provide my own input, where necessary. When working on team projects at Makers, applying these skills helped me to understand my teammates' proposals and then work with the group to develop these ideas, execute them and achieve material results.
+
+#### I Can Analyze and Solve Problems
+
+From my experience at Makers, I have seen first-hand that a developer's job is solving problems, however, the important part is not what the problem is, but how you approach it. A good example of that is our final project at Makers, where my team and I have spent a lot of time on planning and diagramming the flow of our app, as well as trying to identify any caveats we could face and how we would deal with them. Because of this, everybody had a good understanding of what we are trying to achieve. We managed to split the tasks between the two pairs efficiently and work on our backend and frontend simultaneously, without being dependent on each other's work, which allowed us to achieve a lot more.
+
+The more mathematical modules of my bachelor's degree, such as Econometrics, Statistics and Finance, have helped me to improve upon my quantitative and analytical skills, which was useful when working on a variety of data-related projects as a consultant. For example, when we were building a datamart service for a tobacco company, I could confidently navigate through a large number of data sources and add value by surfacing some valuable insights from them, which helped us to build a product that was very well received.
+
+#### I Can Work Well With Customers
+
+Before joining Makers, I have had several experiences at client-facing roles, which taught me how to work with customers and, most importantly, how to deal with unexpected situations. During the 2018 FIFA World Cup, I worked in a hotel in Russia, where I was responsible with welcoming international guests. Working there involved solving a lot of problems, from rushing a guest to the stadium and trying to find tickets 15 minutes before a game to rescuing people stuck in a swamp on an ATV. However, it was very rewarding to make the guests' experience as good as we could and then reading their happy reviews! 
+
+My first project as a consultant was one of the toughest challenges in my career so far. Due to a lack of resources in the firm at the time, I was responsible for most of the work on this project, including client interaction. Furthermore, when the project was first discussed, there was a misbrief and I had to navigate through a radical mid-project change in the scope and the tech stack. I had to reevaluate the options and finding balance in communicating them was particularly challenging. Despite that, leveraging my customer service and communication skills has helped me achieve a successful result. I believe that, as a developer, these skills will help me to better acknowledge and cater towards the user requirements.
 
 ## Experience
 
@@ -105,12 +100,12 @@ _Bachelor of Arts in Economics and Business_
 - English (fluent)
 - Russian (native)
 - Lithuanian (fluent, but need some practice)
-- German (conversational)
+- German (basic/intermediate)
 
 ## Hobbies
 
 My main hobby is playing What? Where? When? It is a Russian game, where a team of six players answer a question within a minute. The closest analogy would be a pub quiz, but questions are answered with logic and deduction, rather than being trivia-based.
 
-Furthermore, I always seek to try new experiences, such as skydiving, surfing and wakeboarding. During lockdown, I found a passion in cooking and trying to recreate my favourite dishes from scratch. I also enjoy playing video games (CS:GO, LoL, Dota, Overwatch) with my friends
+Furthermore, I always seek to try new experiences, such as skydiving, surfing and wakeboarding. This also led me to climb Mt Kilimanjaro over Christmas, which I am very proud of! During lockdown, my wife and I found a passion in cooking and trying to recreate our favourite dishes from scratch. I also enjoy playing video games (CS:GO, LoL, Dota, Overwatch) with my friends.
 
-In the past year, we got a puppy and a kitten and my life has been revolving around them ever since :)
+In the past year, we got a puppy and a kitten, so, really, my life has been revolving around them ever since :)
