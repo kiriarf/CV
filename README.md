@@ -78,8 +78,9 @@ many outstanding reviews.
 **Makers Academy** (September 2020 to December 2020)  
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- REST, GraphQL
+- Languages and frameworks: Ruby, Rails, JavaScript, React, Node.js
+- Testing frameworks: RSpec, Jasmine, Jest, Cypress
 
 **University College London** (September 2016 to June 2019)  
 _Bachelor of Arts in Economics and Business_
