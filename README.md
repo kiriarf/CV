@@ -16,25 +16,25 @@ As I have progressed through my academic studies and, subsequently, my career, I
 
 ## Skills
 
-#### I Can Learn Anything Quickly
+### I Can Learn Anything Quickly
 
 Having graduated from a BA degree in Economics and lacking a technical background, I have encountered a steep learning curve in the early months of my time as a business analytics consultant. However, with each new project and tool that I picked up, I have seen my expertise and understanding of data solutions grow. Starting with developing unsophisticated reports in Power BI and Tableau, I have gained foundational knowledge of relational data models and best practices of data visualisation, which has helped me to move onto complex data engineering and cloud architecture projects within several months. 
 
 Although economics is a vastly different discipline to programming, self-study and research skills that I gained with my degree are highly transferable and will aid me in overcoming any learning challenge, which is called for by the nature of work as a developer, where one has to develop continuously and stay up-to-date with the industry. Finally, during my experience at Makers I could really stress-test my learning skills as the program was highly intensive. I believe that one of my successes was focussing my efforts on learning and applying the fundamental concepts in programming, such as OOP and TDD. With these skills at my disposal, I got more confident with Ruby and later JavaScript, as well as any other technologies I needed for my projects. 
 
-#### I Can Work in a Team
+### I Can Work in a Team
 
 During my time at university, I have worked part-time with Syft, which involved working in a new location with a new team almost every shift. This has taught me how to adapt to working with different people and team dynamics, which was particularly useful during the pair programming sessions at Makers, where we would have a new partner every day. Everybody had a different working style and being able to adjust myself enabled a symbiotic relationship, where I could learn from other students' approaches, as well as share the methods that worked for me.
 
 The work as a consultant was almost always team-based, therefore I have gained experience of brainstorming ideas and executing them with other people. An important takeaway for me was learning how to listen to others and provide my own input, where necessary. When working on team projects at Makers, applying these skills helped me to understand my teammates' proposals and then work with the group to develop these ideas, execute them and achieve material results.
 
-#### I Can Analyze and Solve Problems
+### I Can Analyze and Solve Problems
 
 From my experience at Makers, I have seen first-hand that a developer's job is solving problems, however, the important part is not what the problem is, but how you approach it. A good example of that is our final project at Makers, where my team and I have spent a lot of time on planning and diagramming the flow of our app, as well as trying to identify any caveats we could face and how we would deal with them. Because of this, everybody had a good understanding of what we are trying to achieve. We managed to split the tasks between the two pairs efficiently and work on our backend and frontend simultaneously, without being dependent on each other's work, which allowed us to achieve a lot more.
 
 The more mathematical modules of my bachelor's degree, such as Econometrics, Statistics and Finance, have helped me to improve upon my quantitative and analytical skills, which was useful when working on a variety of data-related projects as a consultant. For example, when we were building a datamart service for a tobacco company, I could confidently navigate through a large number of data sources and add value by surfacing some valuable insights from them, which helped us to build a product that was very well received.
 
-#### I Can Work Well With Customers
+### I Can Work Well With Customers
 
 Before joining Makers, I have had several experiences at client-facing roles, which taught me how to work with customers and, most importantly, how to deal with unexpected situations. During the 2018 FIFA World Cup, I worked in a hotel in Russia, where I was responsible with welcoming international guests. Working there involved solving a lot of problems, from rushing a guest to the stadium and trying to find tickets 15 minutes before a game to rescuing people stuck in a swamp on an ATV. However, it was very rewarding to make the guests' experience as good as we could and then reading their happy reviews! 
 
