@@ -80,7 +80,7 @@ many outstanding reviews.
 - Agile/XP
 - REST, GraphQL
 - Languages and frameworks: Ruby, Rails, JavaScript, React, Node.js
-- Testing frameworks: RSpec, Jasmine, Jest, Cypress
+- Testing frameworks: RSpec, Capybara, Jasmine, Jest, Cypress
 
 **University College London** (September 2016 to June 2019)  
 _Bachelor of Arts in Economics and Business_
