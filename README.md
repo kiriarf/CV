@@ -2,9 +2,9 @@
 
 ## About Me
 
-My name is Kiril Drobysevskij and I a recent Makers Academy graduate. Prior to joining Makers, I had been working as an analytics consultant for a year, where I gained extensive experience in data engineering and visualisation, as well as teamwork and project management best practices, such as Agile. In 2019, I graduated from UCL Economics and Business with First Class Honours.
+From a young age, technology has always been a hobby of mine: from keeping up-to-date on latest gadgets to building PCs with my friends. However, as I have progressed through my academic studies and, subsequently, my career I have realised that I wanted to join the technology industry as a professional. I have identified that my superficial understanding of programming is a barrier for my future growth, which led me to join Makers Academy, where I could build a strong foundation of programming knowledge.
 
-As I have progressed through my academic studies and, subsequently, my career, I have identified my superficial understanding of programming to be a barrier for my future growth, therefore, I have joined Makers to build a strong foundation of programming knowledge and switch my career path to software development. I plan to use this knowledge in conjunction with the data engineering and visualisation expertise I gained through my career to enhance my understanding of end-to-end software architecture and become an efficient developer.
+Prior to joining Makers, I have graduated from UCL Economics and Business with First Class Honours and worked as an analytics consultant, where I gained extensive experience of working in a team-based agile environment, as well as expertise in data engineering and visualisation. I am  seeking an opportunity to apply my skills and be able to take part in creating something new!
 
 ## Projects
 
@@ -104,9 +104,9 @@ _Bachelor of Arts in Economics and Business_
 - German (basic/intermediate)
 
 ## Hobbies
+My main hobby is playing What? Where? When? It is a Russian game, where a team of six answer a question within one minute. The closest analogy would be a pub quiz, but questions are answered with logic and deduction, rather than being mostly trivia-based. 
+Getting to the answer by working with your team and bouncing off each other’s ideas and guesses is very rewarding and is also a great way to develop your communication skills, which is why I love this game. 
 
-My main hobby is playing What? Where? When? It is a Russian game, where a team of six players answer a question within a minute. The closest analogy would be a pub quiz, but questions are answered with logic and deduction, rather than being trivia-based.
-
-Furthermore, I always seek to try new experiences, such as skydiving, surfing and wakeboarding. This also led me to climb Mt Kilimanjaro over Christmas, which I am very proud of! During lockdown, my wife and I found a passion in cooking and trying to recreate our favourite dishes from scratch. I also enjoy playing video games (CS:GO, LoL, Dota, Overwatch) with my friends.
+Furthermore, I am a moderate adrenaline junkie and love to try out new experiences, such as skydiving, surfing and wakeboarding. This also led me to climb Mt Kilimanjaro recently, which I am very proud of achieving. During lockdown, my wife and I found a passion in cooking and trying to recreate our favourite dishes from scratch. Things started to go very well after getting a sous vide as a gift! I also enjoy video games, I have been trying to 100% the new Crash Bandicoot for several months.
 
 In the past year, we got a puppy and a kitten, so, really, my life has been revolving around them ever since :)
