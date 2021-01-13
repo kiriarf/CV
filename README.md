@@ -2,9 +2,8 @@
 
 ## About Me
 
-From a young age, technology has always been a hobby of mine: from keeping up-to-date on latest gadgets to building PCs with my friends. However, as I have progressed through my academic studies and, subsequently, my career I have realised that I wanted to join the technology industry as a professional. I have identified that my superficial understanding of programming is a barrier for my future growth, which led me to join Makers Academy, where I could build a strong foundation of programming knowledge.
-
-Prior to joining Makers, I have graduated from UCL Economics and Business with First Class Honours and worked as an analytics consultant, where I gained extensive experience of working in a team-based agile environment, as well as expertise in data engineering and visualisation. I am  seeking an opportunity to apply my skills and be able to take part in creating something new!
+From a young age, technology has always been a hobby of mine. Whether keeping up-to-date on latest gadgets or building PCs with my friends. However, as I progressed through my academic studies and, subsequently my career, I  realised that I wanted to join the technology industry as a professional. I have identified that my superficial understanding of programming is a barrier for my future growth, which led me to join Makers Academy in September 2020. 
+Prior to joining Makers, I have graduated from UCL Economics and Business with First Class Honours and worked as an analytics consultant, where I gained extensive experience of working in a team-based agile environment, as well as expertise in data engineering and visualisation. I am seeking an opportunity to apply my skills and be able to take part in creating something new!
 
 ## Projects
 
