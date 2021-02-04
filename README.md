@@ -10,6 +10,7 @@ Prior to joining Makers, I have graduated from UCL Economics and Business with F
 | Name                         | Description                                                                       | Tech/tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------| ----------------- |
 | [CatchMe](https://github.com/kiriarf/catchme-server) | An app that uses location tracking to let you race with your friends in real time (final project at Makers) | GraphQL (Apollo Server + Client), React, PostgreSQL + Sequelize, Travis CI/CD, Heroku, Jest and Cypress |
+| [kpass](https://github.com/kiriarf/kpass) | A simple-to-use password manager that locks your data behind biometrics and doesnt send it anywhere | Swift (SwiftUI, Core Data, Local Authentication)
 | [BruhBook](https://github.com/kiriarf/bruh-in-react) | A CRUD app with basic social media features, such as adding posts | Ruby on Rails, React, PostgreSQL, Travis CI/CD, Heroku |
 | [Bank](https://github.com/kiriarf/bank-tech-test) | A basic banking app done as a practice tech test | NodeJS, Jest, ESLint (airbnb) |
 
